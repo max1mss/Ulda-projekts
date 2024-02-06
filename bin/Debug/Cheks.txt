@@ -1,0 +1,7 @@
+Vārds enja
+Uzvārds nartisha
+Platums 2
+Garums 32
+Augstums 2
+Veltījuma teksts fsfsf
+Materiāla cena eur/m2 1
